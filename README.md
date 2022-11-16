@@ -1,5 +1,6 @@
 # NPP_HexEdit
 Notepad++ Plugin Hexedit
+记事本增强
 
 This is an unofficial repo with source code from:  
 https://sourceforge.net/projects/npp-plugins/files/Hex%20Editor/
